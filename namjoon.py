@@ -73,7 +73,7 @@ def moreCommands():
         webbrowser.open("www.youtube.com")
     elif 'play' in query:
         kit.playonyt(query)
-    #elif 'i am not feeling well' or 'i am sad' or 'make my mood' or ' make me happy' or 'tell me something good' in query:
+    #elif 'i am not feeling well' or 'i am sad' or 'make my mood' or ' make me happy' or 'tell me something good' in   query:
 
 
 if __name__ == "__main__":
